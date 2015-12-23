@@ -1,0 +1,10 @@
+{
+    "UI": "Sample.Application.UI",
+    "ClientFolder": "client",
+    "dev": {
+        "root": "Sample.Server.Console/bin/Debug"
+    },
+    "prod": {
+        "root": "Sample.Server.WinService/bin/Release"
+    }
+}
