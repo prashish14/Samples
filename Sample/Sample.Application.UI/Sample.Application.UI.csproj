@@ -60,13 +60,50 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\config.js" />
+    <Content Include="app\main.js" />
+    <Content Include="app\viewmodels\app-entry.js" />
+    <Content Include="app\viewmodels\shell.js" />
+    <Content Include="app\views\app-entry.html" />
+    <Content Include="app\views\shell.html" />
     <Content Include="index.html" />
+    <Content Include="css\durandal.css" />
+    <Content Include="lib\durandal\js\activator.js" />
+    <Content Include="lib\durandal\js\app.js" />
+    <Content Include="lib\durandal\js\binder.js" />
+    <Content Include="lib\durandal\js\composition.js" />
+    <Content Include="lib\durandal\js\events.js" />
+    <Content Include="lib\durandal\js\plugins\dialog.js" />
+    <Content Include="lib\durandal\js\plugins\history.js" />
+    <Content Include="lib\durandal\js\plugins\http.js" />
+    <Content Include="lib\durandal\js\plugins\observable.js" />
+    <Content Include="lib\durandal\js\plugins\router.js" />
+    <Content Include="lib\durandal\js\plugins\serializer.js" />
+    <Content Include="lib\durandal\js\plugins\widget.js" />
+    <Content Include="lib\durandal\js\system.js" />
+    <Content Include="lib\durandal\js\transitions\entrance.js" />
+    <Content Include="lib\durandal\js\viewEngine.js" />
+    <Content Include="lib\durandal\js\viewLocator.js" />
+    <None Include="lib\jquery\jquery-1.9.1.intellisense.js" />
+    <Content Include="lib\jquery\jquery-1.9.1.min.js" />
+    <Content Include="lib\jquery\jquery.number_format.js" />
+    <Content Include="lib\knockout\knockout-3.2.0.js" />
+    <Content Include="lib\knockout\knockout-3.3.0.js" />
+    <Content Include="lib\knockout\knockout-delegatedEvents.js" />
+    <Content Include="lib\knockout\knockout.mapping-latest.js" />
+    <Content Include="lib\knockout\knockout.validation.min.js" />
+    <Content Include="lib\require\almond-custom.js" />
+    <Content Include="lib\require\r.js" />
+    <Content Include="lib\require\require.js" />
+    <Content Include="lib\require\text.js" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="app\" />
-    <Folder Include="css\" />
+    <Folder Include="app\common\" />
+    <Folder Include="app\widgets\" />
     <Folder Include="img\" />
-    <Folder Include="lib\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lib\jquery\jquery-1.9.1.min.map" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

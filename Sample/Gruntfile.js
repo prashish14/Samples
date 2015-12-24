@@ -21,6 +21,14 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-compress');
 
     var buildConfig = function () {
+        var buildInfo = (function () {
+            return {
+                dateTime: grunt.template.today("mm-dd-yyyy_HH-MM-ss"),
+                date: grunt.template.today("hh:mm-ddmmyyyy"),
+                version: settings.version
+            };
+        })();
+
         var config = {
             pkg: grunt.file.readJSON('package.json'),
             settings: settings,
@@ -88,6 +96,11 @@ module.exports = function (grunt) {
                     options: {
                         styles: {
                             styles: './' + uiDestDev + cssFile
+                        },
+                        data: {
+                            bust: 'DEV' + buildInfo.date,
+                            requireConfig: '<script>var require = { urlArgs:"bust=DEV' + buildInfo.date + '" } </script>',
+                            source: '<script src="lib/require/require.js?bust=DEV' + buildInfo.date + '" data-main="app/config.js?bust=DEV' + buildInfo.date + '"></script>'
                         }
                     }
                 },
@@ -99,7 +112,17 @@ module.exports = function (grunt) {
                             src: [intdexHtmlFile],
                             dest: uiDestProd
                         }
-                    ]
+                    ],
+                    options: {
+                        styles: {
+                            styles: './' + uiDestProd + cssFile
+                        },
+                        data: {
+                            bust: 'DEV' + buildInfo.date,
+                            requireConfig: '<script>var require = { urlArgs:"bust=DEV' + buildInfo.date + '" } </script>',
+                            source: '<script src="lib/require/require.js?bust=DEV' + buildInfo.date + '" data-main="app/config.js?bust=DEV' + buildInfo.date + '"></script>'
+                        }
+                    }
                 }
             },
             concat_css: {
