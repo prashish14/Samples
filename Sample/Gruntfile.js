@@ -151,4 +151,12 @@ module.exports = function (grunt) {
         'htmlbuild:dev',
         'concat_css:dev'
     ]);
+
+    grunt.registerTask('prod', [
+        'ui_config',
+        'clean:prod',
+        'copy:prod',
+        'htmlbuild:prod',
+        'concat_css_prod'
+    ]);
 };
