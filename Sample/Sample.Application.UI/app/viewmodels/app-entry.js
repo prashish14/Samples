@@ -11,7 +11,7 @@
         self.name = ko.observable("Pasha");
         self.lastName = ko.observable("Kaliukhovich");
         self.age = ko.observable(22);
-        self.contacts = ko.observable("");
+        self.email = ko.observable("kaliukhovich.pavel@gmail.com");
     };
 
     appEntryViewModel.prototype.activate = function (settings) {
