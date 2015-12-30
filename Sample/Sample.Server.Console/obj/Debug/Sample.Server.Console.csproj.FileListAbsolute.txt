@@ -63,3 +63,4 @@ D:\Reposiotry\Samples\Sample\Sample.Server.Console\bin\Debug\System.Net.Http.For
 D:\Reposiotry\Samples\Sample\Sample.Server.Console\obj\Debug\Sample.Server.Console.csprojResolveAssemblyReference.cache
 D:\Reposiotry\Samples\Sample\Sample.Server.Console\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
 D:\Reposiotry\Samples\Sample\Sample.Server.Console\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\Reposiotry\Samples\Sample\Sample.Server.Console\obj\Debug\Sample.Server.Console.csproj.Sample.Server.Console.exe.config

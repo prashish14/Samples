@@ -4,6 +4,6 @@ D:\Reposiotry\Samples\OwinSample\Sample.Server.Console\Sample.Application.UI\obj
 D:\Reposiotry\Samples\OwinSample\Sample.Server.Console\Sample.Application.UI\obj\Debug\Sample.Application.UI.pdb
 D:\Reposiotry\Samples\Sample\Sample.Application.UI\bin\Sample.Application.UI.dll
 D:\Reposiotry\Samples\Sample\Sample.Application.UI\bin\Sample.Application.UI.pdb
-D:\Reposiotry\Samples\Sample\Sample.Application.UI\obj\Debug\Sample.Application.UI.csprojResolveAssemblyReference.cache
 D:\Reposiotry\Samples\Sample\Sample.Application.UI\obj\Debug\Sample.Application.UI.dll
 D:\Reposiotry\Samples\Sample\Sample.Application.UI\obj\Debug\Sample.Application.UI.pdb
+D:\Reposiotry\Samples\Sample\Sample.Application.UI\obj\Debug\Sample.Application.UI.csprojResolveAssemblyReference.cache
