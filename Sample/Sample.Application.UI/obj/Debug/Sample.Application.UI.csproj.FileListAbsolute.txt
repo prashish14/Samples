@@ -6,4 +6,3 @@ D:\Reposiotry\Samples\Sample\Sample.Application.UI\bin\Sample.Application.UI.dll
 D:\Reposiotry\Samples\Sample\Sample.Application.UI\bin\Sample.Application.UI.pdb
 D:\Reposiotry\Samples\Sample\Sample.Application.UI\obj\Debug\Sample.Application.UI.dll
 D:\Reposiotry\Samples\Sample\Sample.Application.UI\obj\Debug\Sample.Application.UI.pdb
-D:\Reposiotry\Samples\Sample\Sample.Application.UI\obj\Debug\Sample.Application.UI.csprojResolveAssemblyReference.cache
