@@ -120,3 +120,4 @@ D:\Reposiotry\Samples\Sample\Sample.Application.WebApi\Sample.Application.WebApi
 D:\Reposiotry\Samples\Sample\Sample.Application.WebApi\Sample.Application.WebApi\bin\System.Web.Http.Owin.xml
 D:\Reposiotry\Samples\Sample\Sample.Application.WebApi\Sample.Application.WebApi\obj\Debug\Sample.Application.WebApi.dll
 D:\Reposiotry\Samples\Sample\Sample.Application.WebApi\Sample.Application.WebApi\obj\Debug\Sample.Application.WebApi.pdb
+D:\Reposiotry\Samples\Sample\Sample.Application.WebApi\Sample.Application.WebApi\obj\Debug\Sample.Application.WebApi.csprojResolveAssemblyReference.cache
