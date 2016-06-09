@@ -1,0 +1,10 @@
+D:\Reposiotry\Samples\Sample\Sample.Application.Console\bin\Debug\Sample.Application.Console.exe.config
+D:\Reposiotry\Samples\Sample\Sample.Application.Console\bin\Debug\Sample.Application.Console.exe
+D:\Reposiotry\Samples\Sample\Sample.Application.Console\bin\Debug\Sample.Application.Console.pdb
+D:\Reposiotry\Samples\Sample\Sample.Application.Console\obj\Debug\Sample.Application.Console.exe
+D:\Reposiotry\Samples\Sample\Sample.Application.Console\obj\Debug\Sample.Application.Console.pdb
+D:\Reposiotry\Samples\Sample\Sample.Application.Console\bin\Debug\EntityFramework.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.Console\bin\Debug\EntityFramework.xml
+D:\Reposiotry\Samples\Sample\Sample.Application.Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\Reposiotry\Samples\Sample\Sample.Application.Console\obj\Debug\Sample.Application.Console.csprojResolveAssemblyReference.cache

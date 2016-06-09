@@ -1,0 +1,45 @@
+﻿@using Ebuy.Website.Models
+@{
+    ViewBag.Title = "About";
+    var company = (CompanyInfo) ViewData.Model;
+}
+
+<p>Compny</p>
+<h4>@company.Name</h4>
+<div>@company.Description</div>
+
+<div>
+    <img src='@Url.Content("~/Images/bullet.png")'/>
+    @Html.ActionLink("Homepage", "Index", "Home")
+</div>
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+
+<article>
+    <p>
+        Use this area to provide additional information.
+    </p>
+
+    <p>
+        Use this area to provide additional information.
+    </p>
+
+    <p>
+        Use this area to provide additional information.
+    </p>
+</article>
+
+<aside>
+    <h3>Aside Title</h3>
+    <p>
+        Use this area to provide additional information.
+    </p>
+    <ul>
+        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+        <li>@Html.ActionLink("About", "About", "Home")</li>
+        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+    </ul>
+</aside>

@@ -1,0 +1,16 @@
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\Sample.Application.Database.exe.config
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\obj\Debug\Sample.Application.Database.csprojResolveAssemblyReference.cache
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\Sample.Application.Database.exe
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\Sample.Application.Database.pdb
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\EntityFramework.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\EntityFramework.SqlServer.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\Sample.Application.DAL.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\Sample.Application.DAL.Entities.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\Autofac.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\Sample.Application.DAL.Entities.pdb
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\Sample.Application.DAL.pdb
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\EntityFramework.xml
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\EntityFramework.SqlServer.xml
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\bin\Debug\Autofac.xml
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\obj\Debug\Sample.Application.Database.exe
+D:\Reposiotry\Samples\Sample\Sample.Application.Database\obj\Debug\Sample.Application.Database.pdb

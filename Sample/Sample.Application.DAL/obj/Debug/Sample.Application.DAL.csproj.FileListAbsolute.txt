@@ -1,0 +1,14 @@
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\obj\Debug\Sample.Application.DAL.csprojResolveAssemblyReference.cache
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\Sample.Application.DAL.dll.config
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\Sample.Application.DAL.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\Sample.Application.DAL.pdb
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\Autofac.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\EntityFramework.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\Sample.Application.DAL.Entities.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\Sample.Application.DAL.Entities.pdb
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\Autofac.xml
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\EntityFramework.xml
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\obj\Debug\Sample.Application.DAL.dll
+D:\Reposiotry\Samples\Sample\Sample.Application.DAL\obj\Debug\Sample.Application.DAL.pdb
